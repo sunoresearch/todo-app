@@ -33,7 +33,7 @@ class ToDo extends React.Component {
 		return (
 			<div>
 			<ul>{rlist}</ul>
-			{this.props.done.length ? <h1>Completed tasks <Emoji text="👏" /></h1> : ''}
+			{this.props.done.length ? <h1>Análises completas <Emoji text="👏" /></h1> : ''}
 			<ul>{dlist}</ul>
 			</div>
 			);
