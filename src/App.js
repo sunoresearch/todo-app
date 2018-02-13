@@ -10,7 +10,7 @@ class Home extends Component {
 		super(props);
 		this.state = {
 			task: '',
-			list: ['Check it out in GitHub', 'Made with ❤️ by Toni Codina', 'Try making a new task above 👆', 'Build your own!', 'This site uses 🍪 to keep track of your tasks'],
+			list: ['Confira os resultados da ação', 'Confira o PL', 'Try making a new task above 👆', 'Build your own!', 'This site uses 🍪 to keep track of your tasks'],
 			done: []
 		}
 		this.handleClick = this.handleClick.bind(this);
