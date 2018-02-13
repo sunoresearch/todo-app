@@ -1,13 +1,12 @@
-# Todo App
-Simple ReactJs task manager 🔥
+# Checklist de seleção de ações
+Uma Checklist pr montada para ajudar investidores a selecionarem ações
 
-Try it out [here](https://tcodina.com/exp/todo)
 
 ---
 
-### Features
+### Conteúdo
 
-- Create a task
-- Mark as completed
-- Delete a task
-- Data saved through cookies 🍪
+- 25 pontos a serem análisados
+- Marque os pontos que desejar
+- Adicione novos pontos caso julgue necessário
+- Dados salvos via cookies 🍪
